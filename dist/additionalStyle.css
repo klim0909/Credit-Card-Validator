@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+ul {
+    display: flex;
+    list-style-type: none; /* Убирает буллиты */
+   }
+img{
+    width: 32px;
+    height: 32px;
+    margin-left: 2px;
+    margin-bottom: -10px;
+}
+.del{
+    background-color: black;
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+/*# sourceMappingURL=additionalStyle.css.map*/
